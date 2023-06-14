@@ -28,23 +28,23 @@ It turns out that MusicLM is not very good at making “music”. All of the aud
 
 [music0](/AI_Test_Kitchen_music.mp3)
 
-[music1](/AI_Test_Kitchen_music%20(1).mp3)
+[music1](/AI_Test_Kitchen_music(1).mp3)
 
-[music2](/AI_Test_Kitchen_music%20(2).mp3)
+[music2](/AI_Test_Kitchen_music(2).mp3)
 
 Genre descriptors were up next. I began with pop and then moved on to other (perhaps more niche) genres that I was more familiar with. Note: you don't need to listen to these to understand / continue reading, they're just kind of interesting and provide examples of what MusicLM produces.
 
 [pop0](/AI_Test_Kitchen_pop_music.mp3)
 
-[pop1](/AI_Test_Kitchen_pop_music%20(1).mp3)
+[pop1](/AI_Test_Kitchen_pop_music(1).mp3)
 
 [jazzfusion0](/AI_Test_Kitchen_jazz_fusion.mp3)
 
-[jazzfusion1](/AI_Test_Kitchen_jazz_fusion%20(1).mp3)
+[jazzfusion1](/AI_Test_Kitchen_jazz_fusion(1).mp3)
 
 [progrock0](/AI_Test_Kitchen_prog_rock.mp3)
 
-[progrock1](/AI_Test_Kitchen_prog_rock%20(1).mp3)
+[progrock1](/AI_Test_Kitchen_prog_rock(1).mp3)
 
 Again, there isn't really a coherent idea throughout the song snippet. It's just a rough amalgamation of many different ideas that don't mesh well together. They also seem to not really capture the essence of the genre.
 
@@ -71,7 +71,7 @@ As noted before, artist names and band names have no effect on the output of the
 
 I decided on experimenting on this using one of my favourite artists, Arch Echo (genre: progressive metal, fusion). Adjectives that come to the forefront of my mind are: “energetic, instrumental, fast-paced, harmonic, melodic”. Instrumental features involve “guitar runs, low tuned guitars, keyboard lines, powerful drums, fingerstyle bass”. I put all of the above into the prompts and hit the button:
 
-[example1](/AI_Test_Kitchen_progressive_metal_and_jazz_fusion_with_an_ene%20(1).mp3)
+[example1](/AI_Test_Kitchen_progressive_metal_and_jazz_fusion_with_an_ene(1).mp3)
 
 [example2](/AI_Test_Kitchen_progressive_metal_and_jazz_fusion_with_an_ene.mp3)
 
