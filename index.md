@@ -28,7 +28,7 @@ It turns out that MusicLM is not very good at making “music”. All of the aud
 
 [music0](/AI_Test_Kitchen_music.mp3)
 
-[music1](/AI_Test_Kitchen_music(1).mp3)
+[music1](../AI_Test_Kitchen_music(1).mp3)
 
 [music2](/AI_Test_Kitchen_music(2).mp3)
 
