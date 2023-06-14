@@ -30,7 +30,11 @@ I decided to start with small inputs to see what would happen if specific descri
 
 It turns out that MusicLM is not very good at making “music”. All of the audio files it generated were extremely disjointed; each one contained multiple different themes which changed as the song progressed. There were no transitions between the different themes, each one hard-cutting to the next one. It was as if someone had searched up “music”, picked multiple random songs, cut 2-5 second segments from each of them, and spliced them together. 
 
-<audio examples>
+[music0](/AI_Test_Kitchen_music.mp3)
+
+[music1](/AI_Test_Kitchen_music%20(1).mp3)
+
+[music2](/AI_Test_Kitchen_music%20(2).mp3)
 
 Genre descriptors were up next. I began with pop and then moved on to other (perhaps more niche) genres that I was more familiar with. 
   
