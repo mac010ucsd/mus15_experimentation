@@ -20,7 +20,7 @@ Bitrate
 Duration
 19 seconds
 File Size
-310 KB 😭
+310 KB 
 
 
 In the file metadata, there is nothing that indicates that the file was AI generated. The parameters for descriptions and artists are blank (not that metadata is a good way to determine copyright, as metadata is easily altered/changed).
@@ -36,8 +36,23 @@ It turns out that MusicLM is not very good at making “music”. All of the aud
 
 [music2](/AI_Test_Kitchen_music%20(2).mp3)
 
-Genre descriptors were up next. I began with pop and then moved on to other (perhaps more niche) genres that I was more familiar with. 
-  
+Genre descriptors were up next. I began with pop and then moved on to other (perhaps more niche) genres that I was more familiar with. Note: you don't need to listen to these to understand / continue reading, they're just kind of interesting and provide examples of what MusicLM produces.
+
+[pop0](/AI_Test_Kitchen_pop_music.mp3)
+
+[pop1](/AI_Test_Kitchen_pop_music%20(1).mp3)
+
+[jazzfusion0](/AI_Test_Kitchen_jazz_fusion.mp3)
+
+[jazzfusion1](/AI_Test_Kitchen_jazz_fusion%20(1).mp3)
+
+[progrock0](/AI_Test_Kitchen_prog_rock.mp3)
+
+[progrock1](/AI_Test_Kitchen_prog_rock%20(1).mp3)
+
+Again, there isn't really a coherent idea throughout the song snippet. It's just a rough amalgamation of many different ideas that don't mesh well together. They also seem to not really capture the essence of the genre.
+
+### Descriptors
 
 
 ### Copying a Band
