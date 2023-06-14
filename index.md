@@ -28,9 +28,12 @@ It turns out that MusicLM is not very good at making “music”. All of the aud
 
 [music0](/AI_Test_Kitchen_music.mp3)
 
-[music1](../AI_Test_Kitchen_music(1).mp3)
 
-[music2](/AI_Test_Kitchen_music(2).mp3)
+[music1](./AI_Test_Kitchen_music(1).mp3)
+
+[music1](/AI_Test_Kitchen_music(1).mp3)
+
+[music2](AI_Test_Kitchen_music(2).mp3)
 
 Genre descriptors were up next. I began with pop and then moved on to other (perhaps more niche) genres that I was more familiar with. Note: you don't need to listen to these to understand / continue reading, they're just kind of interesting and provide examples of what MusicLM produces.
 
