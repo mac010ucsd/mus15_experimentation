@@ -9,21 +9,17 @@ To use MusicLM, the user must first be registered to its public test via Google�
 
 The user can type their prompt into the textbox on the left, and press enter to submit their prompt to the model. The model will then output two 20-second audio files on the right, which automatically start playing. After having listened to the two audio files, the user is prompted to give a “trophy” to whichever one is better. The user may download the audio file to their computer. The audio file is exported with the following properties:
 
-Property
-Value
-Name
-AI_Test_Kitchen_{prompts}.mp3
-Format
-MP3
-Bitrate
-128 kbps
-Duration
-19 seconds
-File Size
-310 KB 
+| Thing       | Value                         |
+|-------------|-------------------------------|
+| Name        | AI_Test_Kitchen_{prompts}.mp3 |
+| Format      | MP3                           |
+| Bitrate     | 128 kbps                      |
+| Duration    | 19 seconds                    |
+| File Size   | 310 KB                        |
 
 
-In the file metadata, there is nothing that indicates that the file was AI generated. The parameters for descriptions and artists are blank (not that metadata is a good way to determine copyright, as metadata is easily altered/changed).
+In the file metadata, there is nothing that indicates that the file was AI generated, save for the title. The parameters for descriptions and artists are blank (not that metadata is a good way to determine copyright, as metadata is easily altered/changed).
+
 ## Prompting
 ### Basic Prompts
 I decided to start with small inputs to see what would happen if specific descriptors were not given. I began with the most basic prompt, “music”, then moved on to basic genre descriptors and then full descriptions.
@@ -84,11 +80,13 @@ It's bad. A lot of incoherent guitar wailing, not really melodic at all. The gui
 ### Using AI Tools
 I find it kind of funny that I could be using AI to prompt another AI to do what I want. I decided to use Bing Chat as it is locally available in my browser and I don't need to fiddle that much to figure out how it works (Microsoft keeps pushing it to the user). I first tried asking it questions like, “What are the musical components of Arch Echo?” but ended up not getting results, or relatively unhelpful results like cutout phrases from the “About Me” section of their webpage. I then changed it to “Creative Mode” from “Balanced Mode”, and it began giving me results that were more useful. 
 
-[example](/AI_Test_Kitchen_progressive_metal_fusion_with_influences_from.mp3). Honestly this isn't that great either, and with a bunch of tweaking and rewriting I still couldn't get it to sound any better. MusicLM seems to LOVE putting a ton of chromatic notes whenever you include the word "metal" and I can't seem to get it to stop this habit (Arch Echo in general does not have a lot of chromatic notes). The phrasing is still very classic metal-esque.
+![image](Screenshot%202023-06-11%20185610.png)
+
+[Example](/AI_Test_Kitchen_progressive_metal_fusion_with_influences_from.mp3). Honestly this isn't that great either, and with a bunch of tweaking and rewriting I still couldn't get it to sound any better. MusicLM seems to LOVE putting a ton of chromatic notes whenever you include the word "metal" and I can't seem to get it to stop this habit (Arch Echo in general does not have a lot of chromatic notes). The phrasing is still very classic metal-esque.
 
 I guess it does have all the elements of what I specified, just not implemented in the unique way that the particular artist does. Maybe the sample size is too small, or the artist is too rare, or whatever, but it did The Weeknd much better than it does Arch Echo, and that's just a limitation of the AI as is.
 
 ## Conclusion?
 It was a pretty fun experience overall, coming up with prompts and then having some magic box spit out something that made music come out of these words. Even though it wasn't accurate most of the time for my prompts, admittedly it does do quite well when given a prompt that is pop-adjacent. It's really hard to try to verbally describe a song and a band's style exactly without likening it to another song/artist, and that provides a challenge in recreating another band's style in MusicLM.
 
-TLDR: If you prompt using MusicLM, try to make it something about pop and use a lot of descriptors, especially those that invoke some kind of emotion.
+TLDR: If you prompt using MusicLM, try to make it something about pop and use a lot of descriptors, especially those that invoke some kind of emotion. Everything you produce will be muffled.
